@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_c1_main_menu",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":2,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":99.044716,
+  "exportDir":"",
+  "name":"snd_c1_main_menu",
+  "parent":{
+    "name":"inicial",
+    "path":"folders/Sons/inicial.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_c1_main_menu.wav",
+  "volume":1.0,
+}

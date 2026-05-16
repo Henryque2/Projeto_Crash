@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_pit_death",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":2,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":1.0412812,
+  "exportDir":"",
+  "name":"snd_pit_death",
+  "parent":{
+    "name":"crash",
+    "path":"folders/Sons/crash.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"snd_pit_death.wav",
+  "volume":1.0,
+}

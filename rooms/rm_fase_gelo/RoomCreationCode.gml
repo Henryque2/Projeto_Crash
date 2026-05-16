@@ -1,0 +1,6 @@
+audio_stop_sound(obj_musica.hub)
+audio_stop_sound(obj_musica.fase)
+obj_musica.fase = audio_play_sound(snd_snow_go, 1, true)
+audio_sound_loop_start(snd_snow_go,0.1)
+audio_sound_loop_end(snd_snow_go,211.3)
+audio_sound_loop(obj_musica.fase,1)

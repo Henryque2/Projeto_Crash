@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_portal_out",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":2,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":0.7898866,
+  "exportDir":"",
+  "name":"snd_portal_out",
+  "parent":{
+    "name":"portal",
+    "path":"folders/Sons/portal.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_portal_out.ogg",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_snow_go",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":2,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":228.05481,
+  "exportDir":"",
+  "name":"snd_snow_go",
+  "parent":{
+    "name":"fases",
+    "path":"folders/Sons/fases.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_snow_go.mp3",
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+audio_play_sound(snd_wumpa_collect, 0, false)

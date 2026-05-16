@@ -1,0 +1,6 @@
+audio_stop_sound(obj_musica.hub)
+audio_stop_sound(obj_musica.fase)
+obj_musica.fase = audio_play_sound(snd_fase_do_javali, 1, true)
+audio_sound_loop_start(snd_fase_do_javali,0.1)
+audio_sound_loop_end(snd_fase_do_javali,65.97)
+audio_sound_loop(obj_musica.fase,1)

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_fase_do_javali",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":2,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":143.02333,
+  "exportDir":"",
+  "name":"snd_fase_do_javali",
+  "parent":{
+    "name":"fases",
+    "path":"folders/Sons/fases.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_fase_do_javali.ogg",
+  "volume":1.0,
+}
